@@ -13,7 +13,7 @@ The Netflix website should be user friendly. Different section should be present
 •	Brackets (IDE)
 
 
-# Landing Page
+# 📱Landing Page
 The user can sign-in or sign-up on the landing page.
 He/She can also change the language of the website.
 

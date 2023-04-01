@@ -7,10 +7,10 @@ Netflix is a subscription-based streaming service that allows our members to wat
 The Netflix website should be user friendly. Different section should be present for different genres.
 
 # 💻Built with
-•	HTML 
-•	CSS
-•	JavaScript 
-•	Brackets (IDE)
+•	HTML	
+• CSS
+• JavaScript
+• Brackets (IDE)
 
 
 # 📱Landing Page

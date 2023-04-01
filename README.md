@@ -7,10 +7,11 @@ Netflix is a subscription-based streaming service that allows our members to wat
 The Netflix website should be user friendly. Different section should be present for different genres.
 
 # Built with
-.HTML
-.CSS
-.JavaScript
-.Brackets (IDE)
+•	HTML 
+•	CSS
+•	JavaScript 
+•	Brackets (IDE)
+
 
 # Landing Page
 The user can sign-in or sign-up on the landing page.
@@ -26,3 +27,6 @@ Here the commonly asked questions are present.
 
 # Acknowledgements
 I take all the responsiblity for every single line of code. The design is inspired from Netflix.
+
+# Author
+• Sourav Savant (souravsavant2682@gmail.com)

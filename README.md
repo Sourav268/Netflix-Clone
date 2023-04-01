@@ -1,12 +1,12 @@
-# Website Clones (Netflix)
+# 📂Website Clones (Netflix)
 This is a repository for Netflix Website clone. 
 Cloning a website involves creating a copy of an existing website with the same functionality and design.
 
-# Overview
+# 📝Overview
 Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies on an internet-connected device.
 The Netflix website should be user friendly. Different section should be present for different genres.
 
-# Built with
+# 💻Built with
 •	HTML 
 •	CSS
 •	JavaScript 

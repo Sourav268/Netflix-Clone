@@ -12,7 +12,7 @@ The Netflix website should be user friendly. Different section should be present
 • JavaScript
 • Brackets (IDE)
 
-# Website is deployed on
+# 🖥️Website is deployed on
   https://main--magenta-zuccutto-e578bf.netlify.app/
 
 # 📱Landing Page
